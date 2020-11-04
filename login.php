@@ -6,9 +6,9 @@
    } else if (isset($_POST['name']) && isset($_POST['password'])){
 
 
-     $dsn = 'mysql:host=localhost;dbname=motiva;charset=utf8';
-     $user = 'motivauser';
-     $password = 'password';
+     $dsn = 'mysql:host=us-cdbr-east-02.cleardb.com;dbname=heroku_4e0bd40a54b1930;charset=utf8';
+     $user = 'b4882b891fb98a';
+     $password = '2b63b61e';
 
      try{
        $db = new PDO($dsn, $user,$password);
