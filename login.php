@@ -42,7 +42,7 @@
   <title>卒業研究</title>
 </head>
 <body>
-  <h1>卒業</h1>
+  <h1>卒業研究</h1>
 
   <h2>ログイン</h2>
   <form action="login.php" method="post">
